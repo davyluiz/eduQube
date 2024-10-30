@@ -1,0 +1,11 @@
+.btn-right-fixed {
+    position: fixed;
+    top: 10px;
+    right: 100px;
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
