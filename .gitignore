@@ -1,2 +1,3 @@
 database/dump.sql
 connection/conexao.php
+controller/cadastrar.php
